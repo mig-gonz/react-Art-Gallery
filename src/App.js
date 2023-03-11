@@ -29,7 +29,6 @@ function App() {
         artist={data.artistDisplayName}
         title={data.title}
       />
-
       <Button handleIterate={handleIterate} />
     </div>
   );
